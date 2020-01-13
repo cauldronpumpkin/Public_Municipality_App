@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Disease</string>
+    <string name="about_details"> This Project was one of the many ideas that we thought about during Hack36. </string>
+</resources>

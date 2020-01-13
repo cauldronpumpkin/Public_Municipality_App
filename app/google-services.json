@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "870376153294",
+    "firebase_url": "https://disease-f22d1.firebaseio.com",
+    "project_id": "disease-f22d1",
+    "storage_bucket": "disease-f22d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870376153294:android:9d8013a479f38ff587309f",
+        "android_client_info": {
+          "package_name": "com.example.Disease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870376153294-149krkmlc4mu8l228ec2r04h9gskklhs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Disease",
+            "certificate_hash": "ef6e2a9a0debff2f0277d4d4db6ddc73948419e5"
+          }
+        },
+        {
+          "client_id": "870376153294-lkisv0pujugbum9mtq69u7rnukdua77f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-L2u_qj5UM7E1-6Clf-Ngdz69LoVwwZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870376153294-lkisv0pujugbum9mtq69u7rnukdua77f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
