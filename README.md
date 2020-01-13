@@ -8,4 +8,4 @@
 
 # Test The App
 
-The app_debug apk is in app/build/outputs/apk/debug.
+The app_debug.apk is in app/build/outputs/apk/debug.
